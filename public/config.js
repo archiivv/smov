@@ -1,7 +1,7 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "https://archiivproxy.netlify.app",
+  VITE_CORS_PROXY_URL: "https://proxy.movies.archiiv.cc",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmMjUwMjc3YmZjNjNkNzNiYjY5NmI3MWU2NThjMjUyMSIsIm5iZiI6MTczMDA3NjY3OC41MzE3ODksInN1YiI6IjY2ZGM3YjEzNDQyYjExNDQzMmRkMTU5MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Jr8FL3BtoK4lfKEmNonMqwSYu93e6X6Q5b5rtFV3G0k",
